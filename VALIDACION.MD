@@ -20,3 +20,15 @@ git merge feature/openapi
 Integre feature/docs i feature/openapi, Git merge sirve para fusionar una rama con la actual
 
 # Ejercicio 3
+
+mkdocs gh-deploy
+
+# Ejercicio 4 
+
+
+La rama contiene todo el contenido web para poder alojarlo en github pages
+
+
+https://adriaespii.github.io/validacion-up01/
+
+https://github.com/adriaespii/validacion-up01/tree/main
